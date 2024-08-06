@@ -1,0 +1,30 @@
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 7px;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: rgb(245, 146, 79);
+}
+
+.nav-container a { 
+    color: rgb(36, 23, 54);
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+main h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: rgb(180, 192, 202);
+}
+
+.img-marcozero img{
+    width: 500px;
+}
+
+.section-container {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
